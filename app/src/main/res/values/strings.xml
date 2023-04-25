@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RegistroPacientes</string>
+    <string name="app_title">REGISTRO DE PACIENTES</string>
+    <string name="fab_content_desc">plus</string>
+    <string name="nombre">Nombre</string>
+    <string name="edad">Edad</string>
+    <string name="registro">Fecha de Registro</string>
+    <string name="dni">DNI</string>
+    <string name="app_registro">Nuevo Registro</string>
+    <string name="registrar">Registrar</string>
+    <string name="optionSi">Si</string>
+    <string name="optionNo">No</string>
+</resources>
